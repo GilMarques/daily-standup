@@ -343,7 +343,7 @@ Crie um relatório estruturado com estas seções em PORTUGUÊS:
      - Detalhe técnico 1.2
    - Tarefa 2
      - Detalhe técnico 2.1
-2. **Amanhã** - Lista de TAREFAS que VOCÊ vai fazer amanhã. EXEMPLOS DO QUE NAO COLOCAR AQUI:
+2. **Amanhã** (ou "Segunda" se hoje for sexta-feira) - Lista de TAREFAS que VOCÊ vai fazer amanhã. EXEMPLOS DO QUE NAO COLOCAR AQUI:
    - "Aguardar deploy do Dhiego" ← ISSO VAI EM BLOQUEIOS
    - "Depende de outras tarefas" ← ISSO VAI EM BLOQUEIOS
    - "Revisar depois" ← ISSO VAI EM BLOQUEIOS SE FOR BLOQUEIO
@@ -367,6 +367,8 @@ NAO use formato [texto](url) - use a URL direta.
 O link ClickUp deve aparecer logo após o texto do item de topo nível, não como item separado.
 
 MÁXIMO 5 ITENS POR SUBLISTA - escolha os mais importantes.
+
+CRÍTICO: Inclua TODOS os resumos no relatório. Cada sessão deve aparecer como um item separado em HOJE. Não pule nenhum resumo.
 
 Seja específico e técnico. Inclua nomes de arquivos, funções e decisões importantes.
 
